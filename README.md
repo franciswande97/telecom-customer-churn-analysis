@@ -1,4 +1,3 @@
-# FUTURE_DS_02
 # Customer Churn & Retention Analysis Dashboard
 
 ## Project Overview
